@@ -7,10 +7,10 @@ In the case of enhancing two images, a new image can be saved to a desired locat
 with the default location being where the program was run.
 The program is designed for 8 bit jpg, png, or TIF images.
 
+This program can be run in most Python IDEs, with the following packages installed: tkinter, numpy, matplotlib, and PIL
+
 The graphical user interface is shown below:
 ![image](https://github.com/SMProgrammer/RadiometricEnhancement/assets/90346350/43b53893-76b9-419b-90cf-242c9785c5b5)
 
-
 An example of the graphs produced for matching is shown below.
-
 ![image](https://github.com/SMProgrammer/RadiometricEnhancement/assets/90346350/fdb76f89-77d1-49dc-a157-69629f140f7c)
